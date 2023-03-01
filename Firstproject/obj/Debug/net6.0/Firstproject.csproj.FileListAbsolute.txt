@@ -1,0 +1,15 @@
+C:\Users\emil_\RiderProjects\Firstproject\Firstproject\bin\Debug\net6.0\Firstproject.exe
+C:\Users\emil_\RiderProjects\Firstproject\Firstproject\bin\Debug\net6.0\Firstproject.deps.json
+C:\Users\emil_\RiderProjects\Firstproject\Firstproject\bin\Debug\net6.0\Firstproject.runtimeconfig.json
+C:\Users\emil_\RiderProjects\Firstproject\Firstproject\bin\Debug\net6.0\Firstproject.dll
+C:\Users\emil_\RiderProjects\Firstproject\Firstproject\bin\Debug\net6.0\Firstproject.pdb
+C:\Users\emil_\RiderProjects\Firstproject\Firstproject\obj\Debug\net6.0\Firstproject.csproj.AssemblyReference.cache
+C:\Users\emil_\RiderProjects\Firstproject\Firstproject\obj\Debug\net6.0\Firstproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emil_\RiderProjects\Firstproject\Firstproject\obj\Debug\net6.0\Firstproject.AssemblyInfoInputs.cache
+C:\Users\emil_\RiderProjects\Firstproject\Firstproject\obj\Debug\net6.0\Firstproject.AssemblyInfo.cs
+C:\Users\emil_\RiderProjects\Firstproject\Firstproject\obj\Debug\net6.0\Firstproject.csproj.CoreCompileInputs.cache
+C:\Users\emil_\RiderProjects\Firstproject\Firstproject\obj\Debug\net6.0\Firstproject.dll
+C:\Users\emil_\RiderProjects\Firstproject\Firstproject\obj\Debug\net6.0\refint\Firstproject.dll
+C:\Users\emil_\RiderProjects\Firstproject\Firstproject\obj\Debug\net6.0\Firstproject.pdb
+C:\Users\emil_\RiderProjects\Firstproject\Firstproject\obj\Debug\net6.0\Firstproject.genruntimeconfig.cache
+C:\Users\emil_\RiderProjects\Firstproject\Firstproject\obj\Debug\net6.0\ref\Firstproject.dll
