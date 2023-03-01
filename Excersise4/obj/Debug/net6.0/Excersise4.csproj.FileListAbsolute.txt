@@ -1,0 +1,15 @@
+C:\Users\emil_\RiderProjects\Firstproject\Excersise4\bin\Debug\net6.0\Excersise4.exe
+C:\Users\emil_\RiderProjects\Firstproject\Excersise4\bin\Debug\net6.0\Excersise4.deps.json
+C:\Users\emil_\RiderProjects\Firstproject\Excersise4\bin\Debug\net6.0\Excersise4.runtimeconfig.json
+C:\Users\emil_\RiderProjects\Firstproject\Excersise4\bin\Debug\net6.0\Excersise4.dll
+C:\Users\emil_\RiderProjects\Firstproject\Excersise4\bin\Debug\net6.0\Excersise4.pdb
+C:\Users\emil_\RiderProjects\Firstproject\Excersise4\obj\Debug\net6.0\Excersise4.csproj.AssemblyReference.cache
+C:\Users\emil_\RiderProjects\Firstproject\Excersise4\obj\Debug\net6.0\Excersise4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emil_\RiderProjects\Firstproject\Excersise4\obj\Debug\net6.0\Excersise4.AssemblyInfoInputs.cache
+C:\Users\emil_\RiderProjects\Firstproject\Excersise4\obj\Debug\net6.0\Excersise4.AssemblyInfo.cs
+C:\Users\emil_\RiderProjects\Firstproject\Excersise4\obj\Debug\net6.0\Excersise4.csproj.CoreCompileInputs.cache
+C:\Users\emil_\RiderProjects\Firstproject\Excersise4\obj\Debug\net6.0\Excersise4.dll
+C:\Users\emil_\RiderProjects\Firstproject\Excersise4\obj\Debug\net6.0\refint\Excersise4.dll
+C:\Users\emil_\RiderProjects\Firstproject\Excersise4\obj\Debug\net6.0\Excersise4.pdb
+C:\Users\emil_\RiderProjects\Firstproject\Excersise4\obj\Debug\net6.0\Excersise4.genruntimeconfig.cache
+C:\Users\emil_\RiderProjects\Firstproject\Excersise4\obj\Debug\net6.0\ref\Excersise4.dll
